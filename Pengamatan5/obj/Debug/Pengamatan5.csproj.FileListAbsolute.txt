@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan5\Pengamatan5\bin\Debug\Pengamatan5.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan5\Pengamatan5\bin\Debug\Pengamatan5.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan5\Pengamatan5\bin\Debug\Pengamatan5.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan5\Pengamatan5\obj\Debug\Pengamatan5.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan5\Pengamatan5\obj\Debug\Pengamatan5.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan5\Pengamatan5\obj\Debug\Pengamatan5.pdb
